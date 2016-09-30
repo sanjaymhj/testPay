@@ -1,0 +1,17 @@
+PODS:
+  - Alamofire (3.4.1)
+  - Stripe/ApplePay (7.0.1):
+    - Stripe/Core
+  - Stripe/Core (7.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4)
+  - Stripe/ApplePay
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  Stripe: b92298b31cf156fb23a029361b57e2fcb6583d57
+
+PODFILE CHECKSUM: d80026615e71eb4871531ec6ad50b66632d65d64
+
+COCOAPODS: 1.0.1
